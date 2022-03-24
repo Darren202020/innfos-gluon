@@ -1,7 +1,7 @@
 # README
 Using Python  to control the inndosGluon
 
-#REFERENCE
+# REFERENCE
 
 https://github.com/SkyentificGit/InnfosGluon
 
