@@ -10,6 +10,6 @@ https://github.com/SkyentificGit/InnfosGluon
 
 ![ROS Python控制-2.jpg](/resources/ROS_Python控制-2.jpg)
 
-![ROS Python控制-3.jpg](README%2026482/ROS_Python%E6%8E%A7%E5%88%B6-3.jpg)
+![ROS Python控制-3.jpg](/resources/ROS_Python控制-3.jpg)
 
-![ROS Python控制-4.jpg](README%2026482/ROS_Python%E6%8E%A7%E5%88%B6-4.jpg)
+![ROS Python控制-4.jpg](/resources/ROS_Python控制-4.jpg)
