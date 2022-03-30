@@ -1,5 +1,5 @@
 # README
-Using Python  to control the innosGluon
+Using Python  to control the innfosGluon
 
 # REFERENCE
 
